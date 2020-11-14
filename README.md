@@ -9,4 +9,4 @@ SNo,ObservationDate,Province/State,Last Update,Confirmed,Deaths,Recovered.(each 
 
 The main library used is plotly(most frequently here)
 Hope will be better improved in the part-2!
-(Teacher,i have uploaded my ipynb file in the part-2,but my file is large than 25MB,i tried the way throw lfs but not successfully,so sorry for uploaded the zip,but i dont have other way to do)
+(Teacher,i have uploaded my ipynb file in the final version,but my file is large than 25MB,i tried the way throw lfs but not successfully,so sorry for uploaded the zip,but i dont have other way to do,i also asked my friends to do throw vscode,but still not successfully sorry for take unconvinent to you)
